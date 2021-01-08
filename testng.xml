@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.scripts.facebook.ForgotPassword"/>
       <class name="com.scripts.facebook.FacebookFrameworkTest"/>
     </classes>
   </test> <!-- Test -->
